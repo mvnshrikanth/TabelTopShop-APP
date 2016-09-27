@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabletop Shop</string>
+    <string name="shop_name">Your Friendly Neighborhood Tabletop Shop for Hobbies</string>
+    <string name="address">741 New Britain Ave, Newington, CT 06111</string>
+    <string name="phone">(860) 436-2213</string>
+    <string name="hours">10AM–10PM</string>
+    <string name="description">Your Friendly Neighborhood Tabletop Shop, offers a wide selection of hobby games and collectibles.  We also run a number of events every day of the week, check our upcoming events on this page.</string>
+</resources>
